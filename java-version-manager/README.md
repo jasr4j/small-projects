@@ -4,7 +4,8 @@
 
 ```bash
 $ cd previous/java-version-manager
-$ gcc main.c -std=c17 -o jvmanager
+$ make
+$ ./jvmanager <arg>
 ```
 
 GOAL: 
@@ -21,3 +22,5 @@ Support Goals:
 * RHEL/CentOS/Fedora & Derivatives (dnf)
 * MacOS X (brew)
 * Windows (likely the hardest because of exes)
+
+Resource on JDKs: [Blog on Medium](https://medium.com/@Fredtaylor1/openjdk-temurin-graalvm-which-java-should-you-actually-install-9eb88c1eb8dd)

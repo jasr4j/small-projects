@@ -2,4 +2,4 @@ __pycache__/
 *.out
 .vscode/
 .venv/
-jvmanagers
+jvmanager

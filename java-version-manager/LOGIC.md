@@ -1,8 +1,10 @@
+## IF I HAVE TIME
+
 File Format for all config files will be JVMF (Java Version Manager Format)
 
 tree.jvmf contains all the JDKs and Versions. 
 
-Use C Preprocessor Directives to Check OS
+C Preprocessor Directives to Check OS
 
 ```c
 #ifdef _WIN32
